@@ -7,4 +7,4 @@
   - Discord: d_shwagginz
   - Email: dshwagbusiness@gmail.com
 - 📘 I created [wa-cr](https://github.com/D-Shwagginz/wa-cr) which reads and writes .wad files and lump data
-- 📕 I bound [wfc](https://github.com/krychu/wfc) to [Crystal](https://crystal-lang.org) - [wfc-cr](https://github.com/D-Shwagginz/wfc-cr)
+- 📕 I bound [krychu/wfc](https://github.com/krychu/wfc) to [Crystal](https://crystal-lang.org) - [wfc-cr](https://github.com/D-Shwagginz/wfc-cr)
