@@ -1,4 +1,4 @@
-### 👋 Howdy, I’m D. Shwagginz
+### 👋 Howdy, I’m Devin Shwagginz
 
 - 🔮 Currently using [Crystal](https://crystal-lang.org)
 - 👀 I’m into Unreal Engine game development
