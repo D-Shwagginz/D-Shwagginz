@@ -1,7 +1,9 @@
 ### 👋 Howdy, I’m Devin Shwagginz
 
-- 🔮 Currently using [Crystal](https://crystal-lang.org)
-- 👀 I’m into Unreal Engine game development
+- ⌨️ I use<br>
+      -> [Crystal](https://crystal-lang.org)<br>
+      -> [C](https://www.c-language.org)
+- 👀 I like game development
 - 🌱 I’m learning everything I need to know
 - 📫 How to reach me -
   - Discord: d_shwagginz
