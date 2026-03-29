@@ -10,5 +10,5 @@
   - Email: devin@shwaggi.nz
 - 📘 I created [wa-cr](https://github.com/D-Shwagginz/wa-cr) which reads and writes .wad files and lump data
 - 📗 I made [DoomInUE](https://youtu.be/BLNsJkQKe7A?feature=shared)
+- 📙 I made [tsh-cr](https://github.com/D-Shwagginz/tsh-cr) which is used to create retro Atari 2600 style games
 - 📕 I bound [krychu/wfc](https://github.com/krychu/wfc) to [Crystal](https://crystal-lang.org) - [wfc-cr](https://github.com/D-Shwagginz/wfc-cr)
-- 📙 I bound [libserialport](https://sigrok.org/wiki/Libserialport) to [Crystal](https://crystal-lang.org) - [libserialport-cr](https://github.com/D-Shwagginz/libserialport-cr)
