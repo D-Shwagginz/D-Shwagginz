@@ -4,7 +4,7 @@
       -> [Crystal](https://crystal-lang.org)<br>
       -> [C](https://www.c-language.org)
 - 👀 I like game development
-- 🌱 I’m learning everything I need to know
+- 🌱 I'm a fan of retro technology (pre-2010)
 - 📫 How to reach me -
   - Discord: d_shwagginz
   - Email: devin@shwaggi.nz
