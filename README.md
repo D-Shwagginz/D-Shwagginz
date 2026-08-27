@@ -8,6 +8,7 @@
 - 📫 How to reach me -
   - Discord: d_shwagginz
   - Email: devin@shwaggi.nz
+- 🔥 I created [doo-cr](https://github.com/D-Shwagginz/doo-cr) which is a DOOM source port written in Crystal Lang
 - 📘 I created [wa-cr](https://github.com/D-Shwagginz/wa-cr) which reads and writes .wad files and lump data
 - 📗 I made [DoomInUE](https://youtu.be/BLNsJkQKe7A?feature=shared)
 - 📙 I made [tsh-cr](https://github.com/D-Shwagginz/tsh-cr) which is used to create retro Atari 2600 style games
